@@ -1,0 +1,16 @@
+# Ignore data files and CSVs
+*.csv
+data/
+# Ignore model outputs and reports
+models/
+reports/
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+# Ignore Python cache
+__pycache__/
+*.pyc
+# Ignore environment files
+.env
+.venv/
+# VSCode settings
+.vscode/
